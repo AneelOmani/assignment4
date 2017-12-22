@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\acedemic\\and\\Project Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\java_quiz.xml",
+        "source": "E:\\acedemic\\and\\Project Quiz\\app\\src\\main\\res\\layout\\java_quiz.xml"
+    },
+    {
+        "merged": "E:\\acedemic\\and\\Project Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\create_quiz.xml",
+        "source": "E:\\acedemic\\and\\Project Quiz\\app\\src\\main\\res\\layout\\create_quiz.xml"
+    },
+    {
+        "merged": "E:\\acedemic\\and\\Project Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\acedemic\\and\\Project Quiz\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\acedemic\\and\\Project Quiz\\app\\build\\intermediates\\res\\merged\\debug\\layout\\finish_quiz.xml",
+        "source": "E:\\acedemic\\and\\Project Quiz\\app\\src\\main\\res\\layout\\finish_quiz.xml"
+    }
+]
